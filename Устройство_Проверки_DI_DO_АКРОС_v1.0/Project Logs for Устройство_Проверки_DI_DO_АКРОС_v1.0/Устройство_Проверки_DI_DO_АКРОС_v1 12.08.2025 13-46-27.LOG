@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+15V Pin=F1-2
+Removed Pin From Net: NetName=GND Pin=VD2-1
+Removed Pin From Net: NetName=+15V Pin=VD2-2
+Removed Member From Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=F1
+Change Component Comment : Designator=VD2 Old Comment=SMBJ20A New Comment=SMBJ24CA
+Added Pin To Net: NetName=+15V Pin=C2-1
+Added Pin To Net: NetName=+15V Pin=C3-1
+Added Pin To Net: NetName=+15V Pin=C4-1
+Added Pin To Net: NetName=+15V Pin=C5-1
+Added Pin To Net: NetName=+15V Pin=R2-2
+Added Pin To Net: NetName=+15V Pin=VD1-2
+Added Pin To Net: NetName=+15V Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=VD2-2

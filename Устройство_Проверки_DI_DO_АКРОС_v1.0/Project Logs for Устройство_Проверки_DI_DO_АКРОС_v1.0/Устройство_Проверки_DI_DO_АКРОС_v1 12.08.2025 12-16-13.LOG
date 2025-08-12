@@ -1,0 +1,184 @@
+Added Component: Designator=*(L-914GDT)
+Added Component: Designator=C1(CAP: 0805)
+Add component (AddParameter): Name = "Наименование"; Value = "0805 X5R 16В 10 мкФ ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 X7R 25В 0,1 мкФ ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 X7R 25В 0,1 мкФ ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 X7R 25В 0,1 мкФ ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP: 0805)
+Add component (AddParameter): Name = "Наименование"; Value = "0805 X5R 16В 10 мкФ ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: 0805)
+Add component (AddParameter): Name = "Наименование"; Value = "0805 X5R 16В 10 мкФ ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SOT23-6)
+Add component (AddParameter): Name = "Наименование"; Value = "BL8032CB6TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=F1(RES: 1210)
+Add component (AddParameter): Name = "Наименование"; Value = "MF-USMF020-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND: 1008)
+Add component (AddParameter): Name = "Наименование"; Value = "CVM252009-4R7M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0402)
+Add component (AddParameter): Name = "Наименование"; Value = "0402 100 кОм ±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(BUT: kcd11-102)
+Added Component: Designator=SW2(BUT: kcd11-102)
+Added Component: Designator=SW3(BUT: kcd11-102)
+Added Component: Designator=VD1(DIODE: SMA)
+Add component (AddParameter): Name = "Наименование"; Value = "MBR0520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DIODE: SMB)
+Add component (AddParameter): Name = "Наименование"; Value = "1N4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(CON: 15EDGA-3.81-12P)
+Added Component: Designator=XS2(BAT: Krona)
+Added Pin To Net: NetName=+9V Pin=SW3-1
+Added Pin To Net: NetName=+9V Pin=XS2-1
+Added Net: Name=+9V
+Added Pin To Net: NetName=+15V Pin=F1-2
+Added Pin To Net: NetName=+15V Pin=R4-1
+Added Pin To Net: NetName=+15V Pin=R5-1
+Added Pin To Net: NetName=+15V Pin=R6-1
+Added Pin To Net: NetName=+15V Pin=SW1-1
+Added Pin To Net: NetName=+15V Pin=SW2-1
+Added Pin To Net: NetName=+15V Pin=VD2-2
+Added Pin To Net: NetName=+15V Pin=XS1-6
+Added Pin To Net: NetName=+15V Pin=XS1-6
+Added Pin To Net: NetName=+15V Pin=XS1-8
+Added Pin To Net: NetName=+15V Pin=XS1-8
+Added Net: Name=+15V
+Added Pin To Net: NetName=DI1 Pin=SW1-3
+Added Pin To Net: NetName=DI1 Pin=XS1-12
+Added Pin To Net: NetName=DI1 Pin=XS1-12
+Added Net: Name=DI1
+Added Pin To Net: NetName=DI2 Pin=SW2-3
+Added Pin To Net: NetName=DI2 Pin=XS1-10
+Added Pin To Net: NetName=DI2 Pin=XS1-10
+Added Net: Name=DI2
+Added Pin To Net: NetName=DO1 Pin=R8-2
+Added Pin To Net: NetName=DO1 Pin=XS1-7
+Added Pin To Net: NetName=DO1 Pin=XS1-7
+Added Net: Name=DO1
+Added Pin To Net: NetName=DO2 Pin=R7-2
+Added Pin To Net: NetName=DO2 Pin=XS1-5
+Added Pin To Net: NetName=DO2 Pin=XS1-5
+Added Net: Name=DO2
+Added Pin To Net: NetName=DO3 Pin=*-5
+Added Pin To Net: NetName=DO3 Pin=XS1-4
+Added Pin To Net: NetName=DO3 Pin=XS1-4
+Added Net: Name=DO3
+Added Pin To Net: NetName=DO4 Pin=*-3
+Added Pin To Net: NetName=DO4 Pin=XS1-2
+Added Pin To Net: NetName=DO4 Pin=XS1-2
+Added Net: Name=DO4
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=GND Pin=*-9
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-3
+Added Pin To Net: NetName=GND Pin=XS1-3
+Added Pin To Net: NetName=GND Pin=XS1-9
+Added Pin To Net: NetName=GND Pin=XS1-9
+Added Pin To Net: NetName=GND Pin=XS1-11
+Added Pin To Net: NetName=GND Pin=XS1-11
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R4-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=R7-1
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=R8-1
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C4-1
+Added Pin To Net: NetName=NetC2_1 Pin=C5-1
+Added Pin To Net: NetName=NetC2_1 Pin=F1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=VD1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=DA1-4
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=L1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=VD1-1
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=R2-1
+Added Pin To Net: NetName=NetDA1_3 Pin=R3-2
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=ON Pin=C1-1
+Added Pin To Net: NetName=ON Pin=DA1-5
+Added Pin To Net: NetName=ON Pin=L1-2
+Added Pin To Net: NetName=ON Pin=R1-2
+Added Pin To Net: NetName=ON Pin=SW3-3
+Added Net: Name=ON
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component * HL?
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component C1 10мк
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component C2 0,1мк
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component C3 0,1мк
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component C4 0,1мк
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component C5 10мк
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component C6 10мк
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component DA1 BL8042DCB6TR
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component F1 MF-USMF020-2
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component L1 CVM252009-4R7M
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R1 100к
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R2 75к
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R3 3к
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R4 1.5k
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R5 1.5k
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R6 1.5k
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R7 1.5k
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component R8 1.5k
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component SW1 Button-kcd11-102
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component SW2 Button-kcd11-102
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component SW3 Button-kcd11-102
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component VD1 15MQ040
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component VD2 SMBJ20A
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component XS1 15EDGA-3.81-12P
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component XS2 XS?
+Added Room: Name=1.Устройство_Проверки_DI_DO_АКРОС_v1.0

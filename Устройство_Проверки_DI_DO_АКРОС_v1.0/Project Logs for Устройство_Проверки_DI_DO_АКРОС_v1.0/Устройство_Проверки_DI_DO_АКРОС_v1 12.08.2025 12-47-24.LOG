@@ -1,0 +1,18 @@
+Change Component Comment : Designator=* Old Comment=HL? New Comment=HLA
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=C3 NewDesignator=C6
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW1
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*1_2
+Change Net Name : Old Net Name=Net*_8 New Net Name=Net*1_8
+Change Net Name : Old Net Name=Net*_10 New Net Name=Net*1_10
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC6_1
+Added Pin To Net: NetName=Net*1_4 Pin=*1-4
+Added Pin To Net: NetName=Net*1_4 Pin=R5-2
+Added Net: Name=Net*1_4
+Added Pin To Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_6 Pin=R6-2
+Added Net: Name=Net*1_6
