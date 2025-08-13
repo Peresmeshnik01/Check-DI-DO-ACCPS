@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=HL1 NewDesignator=*1
+Added Component: Designator=SW1(BUT: kcd11-102)
+Added Component: Designator=SW2(BUT: kcd11-102)
+Added Component: Designator=SW3(BUT: kcd11-102)
+Added Pin To Net: NetName=+9V Pin=SW1-1
+Added Pin To Net: NetName=ON Pin=SW1-3
+Added Pin To Net: NetName=+15V Pin=SW2-1
+Added Pin To Net: NetName=DI2 Pin=SW2-3
+Added Pin To Net: NetName=+15V Pin=SW3-1
+Added Pin To Net: NetName=DI1 Pin=SW3-3
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component SW1 Button-kcd11-102
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component SW2 Button-kcd11-102
+Added Member To Class: ClassName=1.Устройство_Проверки_DI_DO_АКРОС_v1.0 Member=Component SW3 Button-kcd11-102
