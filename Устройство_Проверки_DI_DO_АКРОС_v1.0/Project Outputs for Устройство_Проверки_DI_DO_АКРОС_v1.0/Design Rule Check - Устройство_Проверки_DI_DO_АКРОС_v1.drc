@@ -1,29 +1,19 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\pilipenko\Documents\GitHub\Check-DI-DO-ACCPS\Устройство_Проверки_DI_DO_АКРОС_v1.0\Устройство_Проверки_DI_DO_АКРОС_v1.0.PcbDoc
 Date     : 13.08.2025
-Time     : 13:25:44
+Time     : 14:29:04
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.154mm < 0.254mm) Between Pad Free-2(28.4mm,110.3mm) on Multi-Layer And Polygon Region (47 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0.154mm < 0.254mm) Between Pad Free-2(28.4mm,110.3mm) on Multi-Layer And Polygon Region (71 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad Free-2(97.1mm,83.6mm) on Multi-Layer And Polygon Region (47 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad Free-2(97.1mm,83.6mm) on Multi-Layer And Polygon Region (71 hole(s)) Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (71 hole(s)) Bottom Layer And Track (91.1mm,101.045mm)(91.1mm,107.321mm) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.254mm) Between Polygon Region (71 hole(s)) Bottom Layer And Track (91.1mm,107.321mm)(94mm,110.221mm) on Bottom Layer 
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad Free-2(97.1mm,83.6mm) on Multi-Layer And Polygon Region (47 hole(s)) Top Layer Location : [X = 95.892mm][Y = 83.6mm]
-   Violation between Short-Circuit Constraint: Between Pad Free-2(97.1mm,83.6mm) on Multi-Layer And Polygon Region (71 hole(s)) Bottom Layer Location : [X = 95.892mm][Y = 83.6mm]
-   Violation between Short-Circuit Constraint: Between Polygon Region (71 hole(s)) Bottom Layer And Track (91.1mm,101.045mm)(91.1mm,107.321mm) on Bottom Layer Location : [X = 90.969mm][Y = 105.089mm]
-   Violation between Short-Circuit Constraint: Between Polygon Region (71 hole(s)) Bottom Layer And Track (91.1mm,107.321mm)(94mm,110.221mm) on Bottom Layer Location : [X = 90.969mm][Y = 107.544mm]
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -37,10 +27,8 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=3.1mm) (All)
-   Violation between Hole Size Constraint: (6.4mm > 3.1mm) Pad *1-0(37.013mm,113.798mm) on Multi-Layer Actual Slot Hole Width = 6.4mm
-   Violation between Hole Size Constraint: (6.4mm > 3.1mm) Pad *1-0(72.014mm,113.798mm) on Multi-Layer Actual Slot Hole Width = 6.4mm
-Rule Violations :2
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=13.1mm) (All)
+Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -55,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=35.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 12
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
