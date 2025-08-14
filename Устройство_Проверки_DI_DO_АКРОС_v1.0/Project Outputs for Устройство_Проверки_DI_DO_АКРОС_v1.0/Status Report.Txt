@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Устройство_Проверки_DI_DO_АКРОС_v1.0.PrjPcb]
+   Generated File[Устройство_Проверки_DI_DO_АКРОС_v1.0-RoundHoles.TXT]
+   Generated File[Устройство_Проверки_DI_DO_АКРОС_v1.0-SlotHoles.TXT]
+   Generated File[Устройство_Проверки_DI_DO_АКРОС_v1.0.LDP]
+   Generated File[Устройство_Проверки_DI_DO_АКРОС_v1.0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:05:58 On 14.08.2025
